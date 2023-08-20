@@ -35,5 +35,5 @@ Explore the repository, experiment with the application, and take advantage of i
 
 
 Create Book
-https://user-images.githubusercontent.com/104000748/261845003-9a051b65-43bf-4793-a6bc-c0fb66d17314.png
+githubusercontent.com/104000748/261845003-9a051b65-43bf-4793-a6bc-c0fb66d17314.png
 
