@@ -34,6 +34,14 @@ Explore the repository, experiment with the application, and take advantage of i
 
 
 
-Create Book
+1) Create Book
 ![create](https://github.com/NavrozashviliDamiane/Spring_boot_BookManagement_app/assets/104000748/95b2b02f-0a7a-4227-88fb-3cfec3fd5995)
+
+
+2) Get Books list
+![GetList](https://github.com/NavrozashviliDamiane/Spring_boot_BookManagement_app/assets/104000748/45ddd379-0e88-4a00-bfc7-aaa51de40d67)
+
+
+3) Delete Book
+![Delete](https://github.com/NavrozashviliDamiane/Spring_boot_BookManagement_app/assets/104000748/5f08a3ff-4522-4cb8-a84b-bb95a04224fe)
 
